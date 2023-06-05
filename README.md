@@ -16,7 +16,11 @@ In this application, I build a team profile generator using Node.js and jest. Th
 -node index.js: runs the index.js and will generate the prompt in the terminal
 
 ## Video
-Video Walkthrough Link:
+Video Walkthrough Link: https://screenrec.com/share/RyPk0ImKrQ
+
 
 ## Contact
-If you have any questions, reach out to me on Github! The link to the repository is below:
+If you have any questions, reach out to me on Github! The link to the repository is below.
+
+Github Repository: https://github.com/17kyle1/Team-Profile-Generator
+
